@@ -7,4 +7,6 @@ Os dias serão divididos
 <ol>
     <li>Operações Booleanas</li>
     <li>Variáveis</li>
+    <li>Fluxo de decisão</li>
+    <li>Loops e randimização</li>
 </ol>
