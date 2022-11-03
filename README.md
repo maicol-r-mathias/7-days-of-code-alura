@@ -9,4 +9,5 @@ Os dias serão divididos
     <li>Variáveis</li>
     <li>Fluxo de decisão</li>
     <li>Loops e randimização</li>
+    <li>Arrays e coleções</li>
 </ol>
