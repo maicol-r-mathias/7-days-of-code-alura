@@ -11,4 +11,5 @@ Os dias serão divididos
     <li>Dia 4: Loops e randimização</li>
     <li>Dia 5: Arrays e coleções</li>
     <li>Dia 6: Remoção de arrays</li>
+    <li>Dia 7:Funções em Javascript</li>
 </ol>
